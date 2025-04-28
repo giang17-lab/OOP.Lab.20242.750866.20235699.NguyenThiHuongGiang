@@ -1,7 +1,7 @@
-package hust.soict.hespi.aims.cart;
+package hust.soict.elitech.aims.cart;
 
-import hust.soict.hespi.aims.media.DigitalVideoDisc;
-import hust.soict.hespi.aims.media.Media;
+import hust.soict.elitech.aims.media.DigitalVideoDisc;
+import hust.soict.elitech.aims.media.Media;
 
 import java.util.ArrayList;
 import java.util.Scanner;
