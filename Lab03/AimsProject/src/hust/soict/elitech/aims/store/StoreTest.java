@@ -1,4 +1,4 @@
-package hust.soict.hespi.aims.store;
+package hust.soict.elitech.aims.store;
 
 public class StoreTest {
     public static void main(String[] args) {

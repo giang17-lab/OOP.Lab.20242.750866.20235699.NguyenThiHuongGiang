@@ -1,7 +1,7 @@
-package hust.soict.hespi.aims;
+package hust.soict.elitech.aims;
 
-import hust.soict.hespi.aims.cart.Cart;
-import hust.soict.hespi.aims.disc.DigitalVideoDisc;
+import hust.soict.elitech.aims.cart.Cart;
+import hust.soict.elitech.aims.disc.DigitalVideoDisc;
 
 public class Aims {
 

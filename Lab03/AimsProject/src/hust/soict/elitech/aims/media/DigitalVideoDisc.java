@@ -1,4 +1,4 @@
-package hust.soict.hespi.aims.media;
+package hust.soict.elitech.aims.media;
 
 public class DigitalVideoDisc extends Disc implements Playable {
     private String director;
@@ -56,5 +56,4 @@ public class DigitalVideoDisc extends Disc implements Playable {
         System.out.println("Playing DVD: " + this.getTitle());
         System.out.println("DVD length: " + this.getLength());
     }
-}
 }

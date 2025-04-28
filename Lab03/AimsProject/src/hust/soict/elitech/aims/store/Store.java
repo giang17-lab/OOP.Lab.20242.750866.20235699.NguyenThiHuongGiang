@@ -1,6 +1,6 @@
-package hust.soict.hespi.aims.store;
+package hust.soict.elitech.aims.store;
 
-import hust.soict.hespi.aims.media.Media;
+import hust.soict.elitech.aims.media.Media;
 import java.util.ArrayList;
 
 public class Store {

@@ -1,4 +1,4 @@
-package hust.soict.hespi.garbage;
+package hust.soict.elitech.garbage;
 
 public class GarbageCreator {
     public static void main(String[] args) {

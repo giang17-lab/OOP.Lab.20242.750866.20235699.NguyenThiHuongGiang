@@ -1,4 +1,4 @@
-package hust.soict.dsai.aims.media;
+package hust.soict.elitech.aims.media;
 
 public class Disc extends Media {
     protected int length;
